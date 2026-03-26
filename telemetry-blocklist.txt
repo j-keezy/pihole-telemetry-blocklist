@@ -1,87 +1,69 @@
 ###############################################
-# SMART HOME / IOT TELEMETRY
-###############################################
-
-# Generic telemetry patterns
-*.telemetry.*
-*.analytics.*
-*.metrics.*
-*.tracking.*
-
-###############################################
 # GOOGLE HOME / GOOGLE MINI
 ###############################################
-*.google-analytics.com
-*.doubleclick.net
-firebaseinstallations.googleapis.com
-firebase-settings.crashlytics.com
+google-analytics.com
 www.google-analytics.com
 ssl.google-analytics.com
 analytics.google.com
+stats.g.doubleclick.net
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
 
 ###############################################
 # SAMSUNG TV + APPLIANCES
 ###############################################
-*.samsungacr.com
-*.samsungads.com
-*.samsungcloudsolution.com
-*.samsungcloud.com
-*.samsungrs.com
-*.samsungiotcloud.com
+samsungacr.com
+ads.samsungacr.com
+samsungads.com
+gpm.samsungqbe.com
+samsungqbe.com
+samsungcloudsolution.com
+samsungcloud.com
+samsungrs.com
+samsungiotcloud.com
 
 ###############################################
 # IKEA HOME SMART
 ###############################################
-*.diagnostics.homesmart.ikea.com
-*.prod.homesmart.ikea.com
-*.log.homesmart.ikea.com
-*.events.homesmart.ikea.com
+diagnostics.homesmart.ikea.com
+prod.homesmart.ikea.com
+log.homesmart.ikea.com
+events.homesmart.ikea.com
 
 ###############################################
 # TP-LINK / KASA / TAPO
 ###############################################
-*.tplinkcloud.com
-*.use1-api.tplinkcloud.com
-*.eu-wap.tplinkcloud.com
-*.devs.tplinkcloud.com
+tplinkcloud.com
+use1-api.tplinkcloud.com
+eu-wap.tplinkcloud.com
+devs.tplinkcloud.com
 
 ###############################################
 # GLOBE PLUGS / TUYA PLATFORM
 ###############################################
-*.tuya.com
-*.tuyaus.com
-*.tuyaeu.com
-*.tuyacn.com
-*.smartlife.com
-*.smartthings.com
-*.cloudlinks.cn
-*.log.tuyaus.com
-*.log.tuyaeu.com
-*.log.tuyacn.com
+tuya.com
+tuyaus.com
+tuyaeu.com
+tuyacn.com
+smartlife.com
+smartthings.com
+cloudlinks.cn
+log.tuyaus.com
+log.tuyaeu.com
+log.tuyacn.com
 
 ###############################################
 # LEVOIT / VESYNC AIR PURIFIER
 ###############################################
-*.vesync.com
-*.vesyncapi.com
-*.eukapi.com
-*.eukapius.com
-*.eukapicom.com
-*.eukapi-eu.com
-*.eukapi-global.com
-*.eukapi-cloud.com
-*.eukapi-analytics.com
-
-###############################################
-# BOBSWEEP / BOBBOT (Tuya-based)
-###############################################
-*.tuya.com
-*.tuyaus.com
-*.tuyaeu.com
-*.tuyacn.com
-*.smartlife.com
-*.smartthings.com
-*.cloudlinks.cn
+vesync.com
+vesyncapi.com
+eukapi.com
+eukapius.com
+eukapicom.com
+eukapi-eu.com
+eukapi-global.com
+eukapi-cloud.com
+eukapi-analytics.com
 
 ###############################################
 # WINDOWS TELEMETRY (SAFE SET)
@@ -105,12 +87,18 @@ mtalk.google.com
 ###############################################
 # APPLE / IOS / WATCH (SAFE)
 ###############################################
-*.apple-analytics.com
-*.metrics.apple.com
-*.app-measurement.com
+apple-analytics.com
+metrics.apple.com
+app-measurement.com
 
 ###############################################
 # GARMIN (SAFE)
 ###############################################
-*.analytics.garmin.com
-*.metrics.garmin.com
+analytics.garmin.com
+metrics.garmin.com
+
+###############################################
+# FELLOW PRODUCTS (KETTLE / GRINDER / SCALE)
+###############################################
+fellowproducts.com
+firmware.fellowproducts.com
