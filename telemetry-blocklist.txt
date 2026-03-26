@@ -15,6 +15,9 @@
 *.doubleclick.net
 firebaseinstallations.googleapis.com
 firebase-settings.crashlytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
 
 ###############################################
 # SAMSUNG TV + APPLIANCES
