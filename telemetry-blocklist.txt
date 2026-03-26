@@ -1,0 +1,113 @@
+###############################################
+# SMART HOME / IOT TELEMETRY
+###############################################
+
+# Generic telemetry patterns
+*.telemetry.*
+*.analytics.*
+*.metrics.*
+*.tracking.*
+
+###############################################
+# GOOGLE HOME / GOOGLE MINI
+###############################################
+*.google-analytics.com
+*.doubleclick.net
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
+
+###############################################
+# SAMSUNG TV + APPLIANCES
+###############################################
+*.samsungacr.com
+*.samsungads.com
+*.samsungcloudsolution.com
+*.samsungcloud.com
+*.samsungrs.com
+*.samsungiotcloud.com
+
+###############################################
+# IKEA HOME SMART
+###############################################
+*.diagnostics.homesmart.ikea.com
+*.prod.homesmart.ikea.com
+*.log.homesmart.ikea.com
+*.events.homesmart.ikea.com
+
+###############################################
+# TP-LINK / KASA / TAPO
+###############################################
+*.tplinkcloud.com
+*.use1-api.tplinkcloud.com
+*.eu-wap.tplinkcloud.com
+*.devs.tplinkcloud.com
+
+###############################################
+# GLOBE PLUGS / TUYA PLATFORM
+###############################################
+*.tuya.com
+*.tuyaus.com
+*.tuyaeu.com
+*.tuyacn.com
+*.smartlife.com
+*.smartthings.com
+*.cloudlinks.cn
+*.log.tuyaus.com
+*.log.tuyaeu.com
+*.log.tuyacn.com
+
+###############################################
+# LEVOIT / VESYNC AIR PURIFIER
+###############################################
+*.vesync.com
+*.vesyncapi.com
+*.eukapi.com
+*.eukapius.com
+*.eukapicom.com
+*.eukapi-eu.com
+*.eukapi-global.com
+*.eukapi-cloud.com
+*.eukapi-analytics.com
+
+###############################################
+# BOBSWEEP / BOBBOT (Tuya-based)
+###############################################
+*.tuya.com
+*.tuyaus.com
+*.tuyaeu.com
+*.tuyacn.com
+*.smartlife.com
+*.smartthings.com
+*.cloudlinks.cn
+
+###############################################
+# WINDOWS TELEMETRY (SAFE SET)
+###############################################
+vortex.data.microsoft.com
+settings-win.data.microsoft.com
+telemetry.microsoft.com
+watson.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+events.data.microsoft.com
+telecommand.telemetry.microsoft.com
+
+###############################################
+# ANDROID TELEMETRY (SAFE)
+###############################################
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+android.clients.google.com
+mtalk.google.com
+
+###############################################
+# APPLE / IOS / WATCH (SAFE)
+###############################################
+*.apple-analytics.com
+*.metrics.apple.com
+*.app-measurement.com
+
+###############################################
+# GARMIN (SAFE)
+###############################################
+*.analytics.garmin.com
+*.metrics.garmin.com
