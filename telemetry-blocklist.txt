@@ -1,72 +1,22 @@
 ###############################################
-# GOOGLE HOME / GOOGLE MINI
+# GOOGLE TRACKING
 ###############################################
 google-analytics.com
 www.google-analytics.com
 ssl.google-analytics.com
 analytics.google.com
 stats.g.doubleclick.net
-firebaseinstallations.googleapis.com
 firebase-settings.crashlytics.com
 
 ###############################################
-# SAMSUNG TV + APPLIANCES
+# SAMSUNG ADS ONLY (SAFE)
 ###############################################
 samsungacr.com
 ads.samsungacr.com
 samsungads.com
-gpm.samsungqbe.com
-samsungqbe.com
-samsungcloudsolution.com
-samsungcloud.com
-samsungrs.com
-samsungiotcloud.com
 
 ###############################################
-# IKEA HOME SMART
-###############################################
-diagnostics.homesmart.ikea.com
-prod.homesmart.ikea.com
-log.homesmart.ikea.com
-events.homesmart.ikea.com
-
-###############################################
-# TP-LINK / KASA / TAPO
-###############################################
-tplinkcloud.com
-use1-api.tplinkcloud.com
-eu-wap.tplinkcloud.com
-devs.tplinkcloud.com
-
-###############################################
-# GLOBE PLUGS / TUYA PLATFORM
-###############################################
-tuya.com
-tuyaus.com
-tuyaeu.com
-tuyacn.com
-smartlife.com
-smartthings.com
-cloudlinks.cn
-log.tuyaus.com
-log.tuyaeu.com
-log.tuyacn.com
-
-###############################################
-# LEVOIT / VESYNC AIR PURIFIER
-###############################################
-vesync.com
-vesyncapi.com
-eukapi.com
-eukapius.com
-eukapicom.com
-eukapi-eu.com
-eukapi-global.com
-eukapi-cloud.com
-eukapi-analytics.com
-
-###############################################
-# WINDOWS TELEMETRY (SAFE SET)
+# WINDOWS TELEMETRY
 ###############################################
 vortex.data.microsoft.com
 settings-win.data.microsoft.com
@@ -77,28 +27,10 @@ events.data.microsoft.com
 telecommand.telemetry.microsoft.com
 
 ###############################################
-# ANDROID TELEMETRY (SAFE)
-###############################################
-connectivitycheck.gstatic.com
-connectivitycheck.android.com
-android.clients.google.com
-mtalk.google.com
-
-###############################################
-# APPLE / IOS / WATCH (SAFE)
+# APPLE / GARMIN ANALYTICS
 ###############################################
 apple-analytics.com
 metrics.apple.com
 app-measurement.com
-
-###############################################
-# GARMIN (SAFE)
-###############################################
 analytics.garmin.com
 metrics.garmin.com
-
-###############################################
-# FELLOW PRODUCTS (KETTLE / GRINDER / SCALE)
-###############################################
-fellowproducts.com
-firmware.fellowproducts.com
